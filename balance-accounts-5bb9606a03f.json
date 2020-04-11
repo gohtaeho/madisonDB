@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "balance-accounts",
+  "private_key_id": "5bb9606a03fcb5e48c6af5444949ee552177772b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCZOxgGvlbT+7XO\nH4MLv/l+BT6k97DECNgvjQdCCoSDOqQvoNogIGUN+bFkQkRQL05wyvYii2bljiHE\nIezyf8Z1qJHU87F/6yUwmZEGpGb9nm7p2VVKCw4O/IqeX5eMebnQEi2QpsTiZd9h\nCdnpOM7vnM5Aa9RKbbrJWh43pGXEMSlwyxpuJWSxPnEHG9WqYv6X5tiXbNRNjzWK\nk5OJWZiag8R95Pey7O5ivz1YWG9sfCXrTECX8sFAhKXal0JbB4TQT14k+6vlv4Ko\nmJOSQ0ufVgE+9FpOTm3famOpPWONar+yLLhnrZS1DAkkOt0IShqiZqwbqUIQCLUK\nWjm7TGV3AgMBAAECggEAI3Rk7sqD1LDdNEBeVg2pcNtNz2XwZKuXOglrsIA2gRbE\nfrC9R8m3GDC6NvSOUe9gOwD7SqruuBbXAUbISKQAC6FhfOCWJX8HL+OYhuzrV6ud\nBkbfUS6VpioQ+OwtaLeRou9R07KCw8/Gi/F3llsqpo6luoo4qLATFBvh+gXz9hz+\nIj3be38BGr2ayIyZMFh+ayoBMB+oUijpVnjNte82l9TqT/eL9Ak5i07O7HSfdmrh\nWn57BEIksXDeEHM6xFhEB4NbclTcJrkT8X59Sta6i9797hViZeswc/szoLfdP8r1\n/AaB63h5drqFvCHDhQe47uR66+M/Z/etg7UMLYmzoQKBgQDSh02vhS0CkEzMeHfH\nxDxq5YdjzN+kIiud1haTxSQpIroR9eEMtCumXQy421dXeVxZaXSFSJ80PTuYC2T/\n/AkxFt/BzwUqZW3EYPAO+c8QG/7+Fbyvk5MYLcl95887C/6aTyfWZbUwBFBT5swD\nnz7/7nM622dkOgk6PsMSNCskLQKBgQC6U6UHFI00pxO4CVmtHW2R8mHy5fQpUYWR\nXiagkqCYEY7pWXT2Nj5RMnZyeHzOkAVDmqDfhr9gp1pZfIUP70AX5eFHSgFWBSB4\nWDqreCzU5MHhG8p3JkcUEf9PCJ0f72wu/jDg5NM8qNUoiJm8U3J1AwC3AGgIMIBd\nxLoRiZjCswKBgQC5LtjvrlZULffP15uM9ZkrcjCwYbLKnl/9WybK3psbL/e5+qz1\nzrmigbDCHfXq9M59u5wJ7UJU4hO8fzFdViYDrxotUVs62rM+DQK8OZKgme+nMhmh\n206E8ymMfU40oy1WMJBbL2W8Ed9Sne4QtY/l8aocOIfuino5aKGQLqFQFQKBgQCq\nOfTRLSN8cRAA2PoGwJXz+n8mDJQuk331uxCLLqptg80Ov12t+wyf3fx8xDsx9D36\n72/+Bvsc8IgIrUxbrHbf3nMcUC48Sl7J08F2GkrLDVtbr6ofhOb3HSIlMHdsT66E\nmFJLhILALnbfmzzo40v0PxQOHN7ubHE6OZrMnurjJQKBgQChcQw39Q/+XVH17Ok2\nfW/ER7+23kEQBnYOcR1hGlSAj+aj08xOVYcsUyZ/yaFfeirUOt3+GT9u27cQWgmX\nhwl8kbyOLOi9yFg2djaIMcXiM61W0HCpecm9C9KSU5/098Zbn9y8yrxz2FQjVX5M\n8sI8J1EnhAczEPPqSGEZgFT39Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "balance-accounts@balance-accounts.iam.gserviceaccount.com",
+  "client_id": "113273337761060924285",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/balance-accounts%40balance-accounts.iam.gserviceaccount.com"
+}
